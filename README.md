@@ -20,11 +20,11 @@ I'm driven by impact — whether it's delivering a polished user experience or s
 
 ---
 
-I value **integrity**, **collaboration**, and **continuous learning**. Whether working independently or in cross-functional teams, I bring a proactive mindset and a deep commitment to writing clean, maintainable, and efficient code.  
+I value **integrity**, **teamwork**, and **lifelong learning**. Whether working solo or within cross-functional teams, I approach every project with initiative and a strong focus on writing clean, maintainable, and efficient code.
 
-I’ve led and contributed to projects across diverse domains — from sleek marketing websites to robust web dashboards and mobile apps, all crafted with user-centric thinking and a love for technology.  
+I’ve contributed to and led projects across various fields. from modern marketing sites to powerful dashboards all driven by user-centered design and a passion for technology.
 
-**Let’s connect and build something meaningful together.**
+**Let’s collaborate to create something impactful.**
 
 </div>
 
