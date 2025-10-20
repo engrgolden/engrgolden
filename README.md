@@ -1,10 +1,7 @@
-### Hi there 👋  
-## Impact-Driven Fullstack Web & Mobile Engineer
-
+## Result-Oriented Fullstack Engineer
 ---
-
 <div align="left">
-
+### Hi there 👋  
 I'm **Habib**, a passionate and results-oriented Software Engineer with over **5 years** of experience building scalable, user-friendly, and high-performance applications across **frontend**, **backend**, and **mobile** platforms.  
 
 I'm driven by impact — whether it's delivering a polished user experience or solving complex technical challenges, I love turning ideas into real-world solutions.
